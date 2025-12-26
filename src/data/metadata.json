@@ -1,0 +1,41 @@
+{
+  "totalRecords": 12892,
+  "countriesCount": 13,
+  "cropsCount": 10,
+  "yearsRange": [
+    1990,
+    2013
+  ],
+  "averages": {
+    "yield": 84352.87,
+    "rainfall": 1142.59,
+    "temperature": 22.63
+  },
+  "topCountries": [
+    "Argentina",
+    "Australia",
+    "Bangladesh",
+    "Brazil",
+    "Egypt",
+    "France",
+    "Germany",
+    "India"
+  ],
+  "availableCountries": [
+    "Argentina",
+    "Australia",
+    "Bangladesh",
+    "Brazil",
+    "Egypt",
+    "France",
+    "Germany",
+    "India",
+    "Indonesia",
+    "Kenya",
+    "Mexico",
+    "Pakistan",
+    "United Kingdom"
+  ],
+  "lastUpdated": "2025-12-25T13:09:37.040635",
+  "dataSource": "FAO/World Bank Agricultural Data"
+}

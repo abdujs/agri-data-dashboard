@@ -1,0 +1,32 @@
+/* src/index.css - Tailwind entry (correct directives) */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Define a few CSS variables (optional) */
+:root {
+  --color-primary-500: #0ea5e9;
+  --color-success-500: #22c55e;
+  --color-warning-500: #f59e0b;
+  --color-accent-500: #a855f7;
+}
+
+/* Your custom styles */
+body {
+  background-color: #f9fafb; /* bg-gray-50 */
+  color: #111827; /* text-gray-900 */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom utilities */
+.glass-card {
+  backdrop-filter: blur(8px);
+  background-color: rgba(255,255,255,0.7);
+  border: 1px solid rgba(255,255,255,0.2);
+  border-radius: 0.75rem;
+}
+
+.chart-container {
+  background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
+}

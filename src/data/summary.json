@@ -1,0 +1,31 @@
+{
+  "countries": [
+    "Argentina",
+    "Australia",
+    "Bangladesh",
+    "Brazil",
+    "Egypt",
+    "France",
+    "Germany",
+    "India",
+    "Indonesia",
+    "Kenya",
+    "Mexico",
+    "Pakistan",
+    "United Kingdom"
+  ],
+  "crops": [
+    "Cassava",
+    "Maize",
+    "Potatoes",
+    "Rice, paddy",
+    "Sorghum",
+    "Soybeans",
+    "Sweet potatoes",
+    "Wheat",
+    "Yams",
+    "Plantains and others"
+  ],
+  "years": "1990 - 2013",
+  "sampleSize": 12892
+}

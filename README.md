@@ -1,7 +1,12 @@
-
 # Agri Data Dashboard
 
 A professional, responsive dashboard for visualizing agricultural yields and related metadata. Built with React, TypeScript, Vite, and Chart.js. Supports robust fallback CSS and a flexible data pipeline.
+
+---
+
+## Live Demo
+
+[View the dashboard on Vercel](https://agri-data-visualizer.vercel.app)
 
 ---
 
